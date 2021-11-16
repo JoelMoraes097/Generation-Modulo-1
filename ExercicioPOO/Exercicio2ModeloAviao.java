@@ -9,11 +9,11 @@ public class Exercicio2ModeloAviao {
 	public void decolando() { 
 		
 		if(decolagem==true) {
-			System.out.println("esta descolando");
+			System.out.println("esta descolando.");
 		}
 		else 
 		{
-			System.out.println("ainda não decolou");
+			System.out.println("ainda não decolou.");
 		}
 		
 	}
