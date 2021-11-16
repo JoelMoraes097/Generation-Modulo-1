@@ -21,7 +21,7 @@ public class Exercicio1ModeloCliente {
 		System.out.println("O valor da compra é: "+Valor);
     }
 	
-	public void maquinacartão() 
+	public void maquinacartao() 
 	{
 		if (Cartao==true) { 
 			
