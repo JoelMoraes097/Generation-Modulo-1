@@ -1,10 +1,10 @@
 package ExercicioPOO.Exercicio1;
 
-public class Exercicio1Cliente extends Exercicio1ModeloCliente {
+public class Cliente extends ClienteMain {
 
 	public static void main(String[] args) {
 
-		Exercicio1ModeloCliente c1 = new Exercicio1ModeloCliente();
+		ClienteMain c1 = new ClienteMain();
 		c1.Valor = 50.00;
 		c1.ValorCompra();
 		c1.Cartao = false;

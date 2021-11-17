@@ -1,6 +1,6 @@
 package ExercicioPOO.Exercicio1;
 
-public class Exercicio1ModeloCliente {
+public class ClienteMain {
 
 	// atributos
 

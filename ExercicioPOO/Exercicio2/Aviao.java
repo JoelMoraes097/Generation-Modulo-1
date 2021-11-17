@@ -1,9 +1,9 @@
 package ExercicioPOO.Exercicio2;
 
-public class Exercicio2Aviao {
+public class Aviao {
 	public static void main(String[] args) {
 
-		Exercicio2ModeloAviao a1 = new Exercicio2ModeloAviao();
+		AviaoMain a1 = new AviaoMain();
 
 		a1.Modelo = ("A200EM ");
 		a1.cor = ("Preto ");

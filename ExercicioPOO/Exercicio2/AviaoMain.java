@@ -1,6 +1,6 @@
 package ExercicioPOO.Exercicio2;
 
-public class Exercicio2ModeloAviao {
+public class AviaoMain {
 
 	public String Modelo, cor;
 	public Boolean decolagem;
