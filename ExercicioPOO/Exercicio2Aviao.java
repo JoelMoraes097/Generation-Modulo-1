@@ -5,13 +5,9 @@ public class Exercicio2Aviao {
 
 		Exercicio2ModeloAviao a1 = new Exercicio2ModeloAviao();
 
-		System.out.print("O avião: ");
 		a1.Modelo = ("A200EM ");
-		System.out.print(a1.Modelo);
 		a1.cor = ("Preto ");
-		System.out.print(a1.cor);
-		a1.decolagem = false;
-		a1.decolando();
-
+		a1.decolagem = true;
+		a1.status();
 	}
 }
