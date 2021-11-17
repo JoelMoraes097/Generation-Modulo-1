@@ -1,4 +1,4 @@
-package ExercicioPOO;
+package ExercicioPOO.Exercicio1;
 
 public class Exercicio1Cliente extends Exercicio1ModeloCliente {
 

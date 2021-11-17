@@ -1,4 +1,4 @@
-package ExercicioPOO;
+package ExercicioPOO.Exercicio2;
 
 public class Exercicio2ModeloAviao {
 
